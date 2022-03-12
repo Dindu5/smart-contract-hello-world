@@ -15,3 +15,5 @@ npx hardhat help
 ```
 
 Contract deployed to address: 0xf0675977d38D9E87ca02934F356D8EaecD609D2A
+
+To replicate, kindly create and account on alchemy and use the .en.xample file as reference for environment variables
